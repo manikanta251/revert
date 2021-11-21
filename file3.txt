@@ -1,2 +1,3 @@
 line 
 line2 deleted
+this is deleted line
